@@ -1,7 +1,7 @@
 # proyectoDemoCursoPrework
 <html>
 <head>
-  <title> Aprendiendo <strong> Git </strong> </title>
+Aprendiendo <strong> Git </strong>
 </head>
 <body> 
   <p> Empezando con lo primero</p>
