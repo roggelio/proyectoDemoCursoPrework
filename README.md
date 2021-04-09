@@ -1,5 +1,5 @@
 # proyectoDemoCursoPrework
-<doctype! html>
+<html>
 <head>
   <title> Aprendiendo <strong> Git </strong> </title>
 </head>
